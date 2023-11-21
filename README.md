@@ -5,7 +5,7 @@ I'm Yan - a junior ___C++ developer___!
 * 🔭 I’m currently working on __[RubyEngine](https://github.com/qulop/RubyEngine)__
 * 🌱 I’m currently learning __OpenGL__
 * 😄 Pronouns: __gia__ or __qulop__
-* ⚡ Fun fact: i like pineapple pizza
+* ⚡ Fun fact: __i like pineapple pizza__
 
 <center>
 

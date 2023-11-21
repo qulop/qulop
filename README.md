@@ -7,7 +7,8 @@ I'm Yan - a junior ___C++ developer___!
 * 😄 Pronouns: __gia__ or __qulop__
 * ⚡ Fun fact: __i like pineapple pizza__
 
-<center>
+
+<div style="text-align: center;">
 
 ## Projects list 📋
 [![RubyEngine](https://img.shields.io/badge/-RubyEngine-0D1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)](https://github.com/qulop/RubyEngine)
@@ -25,6 +26,6 @@ I'm Yan - a junior ___C++ developer___!
 
 ## My socials 🌍
 [<img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=#"/>](https://t.me/patmonkey)
-[<img src="https://img.shields.io/badge/Discrod-black?style=for-the-badge&logo=discord&logoColor=#"/>](ttps://discord.com/users/878649454226456596)
+[<img src="https://img.shields.io/badge/Discrod-black?style=for-the-badge&logo=discord&logoColor=#"/>](https://discord.com/users/878649454226456596)
 
- </center>
+</div>

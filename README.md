@@ -10,8 +10,8 @@ I'm Yan - a junior ___C++ developer___!
 
 ## Projects list 📋
 [![RubyEngine](https://img.shields.io/badge/-RubyEngine-0D1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)](https://github.com/qulop/RubyEngine)
-[![RTools](https://img.shields.io/badge/-GRaph-0D1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)
-](https://github.com/qulop/RTools)
+[![RETools](https://img.shields.io/badge/-RETools-0D1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)
+](https://github.com/qulop/RETools)
 [![RShell](https://img.shields.io/badge/-RShell-0D1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)
 ](https://github.com/qulop/RShell)
 

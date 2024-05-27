@@ -12,8 +12,6 @@ I'm Yan - a junior ___C++ developer___!
 [![RubyEngine](https://img.shields.io/badge/-RubyEngine-0D1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)](https://github.com/qulop/RubyEngine)
 [![RETools](https://img.shields.io/badge/-RETools-0D1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)
 ](https://github.com/qulop/RETools)
-[![RShell](https://img.shields.io/badge/-RShell-0D1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)
-](https://github.com/qulop/RShell)
 
 
 ## Used technologies 🧰

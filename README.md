@@ -3,15 +3,15 @@ I'm Yan - a junior ___C++ developer___!
 <br/><br/>
 
 * 🔭 I’m currently working on __[RubyEngine](https://github.com/qulop/RubyEngine)__
-* 🌱 I’m currently learning __OpenGL__
+* 🌱 I’m currently learning __OpenGL__ and __OS internals__
 * 😄 Pronouns: __gia__ or __qulop__
 * ⚡ Fun fact: __i like pineapple pizza__
 
 
 ## Projects list 📋
 [![RubyEngine](https://img.shields.io/badge/-RubyEngine-0D1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)](https://github.com/qulop/RubyEngine)
-[![RETools](https://img.shields.io/badge/-RETools-0D1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)
-](https://github.com/qulop/RETools)
+[![GRaph](https://img.shields.io/badge/-GRaph-0D1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)
+](https://github.com/qulop/GRaph)
 
 
 ## Used technologies 🧰

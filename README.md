@@ -9,7 +9,7 @@ I'm Yan - a junior ___C++ developer___!
 
 
 ## Projects list 📋
-[![RubyEngine](https://img.shields.io/badge/-RubyEngine-0D1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)](https://github.com/qulop/RubyEngine)
+[![RubyEngine](https://img.shields.io/badge/-Ruby_Engine-0D1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)](https://github.com/qulop/RubyEngine)
 [![GRaph](https://img.shields.io/badge/-GRaph-0D1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)
 ](https://github.com/qulop/GRaph)
 

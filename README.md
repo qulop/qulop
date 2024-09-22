@@ -2,7 +2,7 @@
 I'm Yan - a junior ___C++ developer___!
 <br/><br/>
 
-* 🔭 I’m currently working on __[RubyEngine](https://github.com/qulop/RubyEngine)__
+* 🔭 I’m currently working on __[RubyEngine](https://github.com/qulop/RubyEngine)__, __[RubyTestify](https://github.com/qulop/RubyTestify)__ and __[TrioLang](https://github.com/qulop/TrioLang)__
 * 🌱 I’m currently learning __OpenGL__ and __OS internals__
 * 😄 Pronouns: __gia__ or __qulop__
 * ⚡ Fun fact: __i like pineapple pizza__
@@ -10,8 +10,10 @@ I'm Yan - a junior ___C++ developer___!
 
 ## Projects list 📋
 [![RubyEngine](https://img.shields.io/badge/-Ruby_Engine-0D1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)](https://github.com/qulop/RubyEngine)
-[![GRaph](https://img.shields.io/badge/-GRaph-0D1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)
-](https://github.com/qulop/GRaph)
+[![TrioLang](https://img.shields.io/badge/-TrioLang-0D1117?style=for-the-badge&logo=c&logoColor=%243298)
+](https://github.com/qulop/TrioLang)
+[![RubyTestify](https://img.shields.io/badge/-RubyTestify-0D1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)
+](https://github.com/qulop/RubyTestify)
 
 
 ## Used technologies 🧰
@@ -22,6 +24,6 @@ I'm Yan - a junior ___C++ developer___!
 [![CMake](https://img.shields.io/badge/-Cmake-0D1117?style=for-the-badge&logo=cmake&logoColor=%23064F8C)](https://github.com/qulop)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=%234169E1)](https://github.com/qulop)
 
-## My socials 🌍
+## My socials(clickable) 🌍
 [<img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=#"/>](https://t.me/patmonkey)
 [<img src="https://img.shields.io/badge/Discrod-black?style=for-the-badge&logo=discord&logoColor=#"/>](https://discord.com/users/878649454226456596)

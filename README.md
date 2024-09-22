@@ -12,7 +12,7 @@ I'm Yan - a junior ___C++ developer___!
 [![RubyEngine](https://img.shields.io/badge/-Ruby_Engine-0D1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)](https://github.com/qulop/RubyEngine)
 [![TrioLang](https://img.shields.io/badge/-TrioLang-0D1117?style=for-the-badge&logo=c&logoColor=%243298)
 ](https://github.com/qulop/TrioLang)
-[![RubyTestify](https://img.shields.io/badge/-RubyTestify-0D1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)
+[![RubyTestify](https://img.shields.io/badge/-Ruby_Testify-0D1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)
 ](https://github.com/qulop/RubyTestify)
 
 

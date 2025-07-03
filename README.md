@@ -13,7 +13,3 @@
 [![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=%23F05032)](https://github.com/qulop)
 [![CMake](https://img.shields.io/badge/-Cmake-0D1117?style=for-the-badge&logo=cmake&logoColor=%23064F8C)](https://github.com/qulop)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=%234169E1)](https://github.com/qulop)
-
-## My socials(clickable) 🌍
-[<img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=#"/>](https://t.me/patmonkey)
-[<img src="https://img.shields.io/badge/Discrod-black?style=for-the-badge&logo=discord&logoColor=#"/>](https://discord.com/users/878649454226456596)

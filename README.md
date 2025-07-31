@@ -1,19 +1,15 @@
 ## Hey there! 👋
-I'm Yan - a junior ___C++ developer___!
-<br/><br/>
+I'm Yan - a ___C++ developer___!
 
-* 🔭 I’m currently working on __[RubyEngine](https://github.com/qulop/RubyEngine)__, __[RubyTestify](https://github.com/qulop/RubyTestify)__ and __[TrioLang](https://github.com/qulop/TrioLang)__
-* 🌱 I’m currently learning __OpenGL__ and __OS internals__
+
+* 🔭 I’m currently working on __[RubyEngine](https://github.com/qulop/RubyEngine)__
+* 🌱 I’m currently learning __Computer graphics__
 * 😄 Pronouns: __gia__ or __qulop__
 * ⚡ Fun fact: __i like pineapple pizza__
 
 
 ## Projects list 📋
 [![RubyEngine](https://img.shields.io/badge/-Ruby_Engine-0D1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)](https://github.com/qulop/RubyEngine)
-[![TrioLang](https://img.shields.io/badge/-TrioLang-0D1117?style=for-the-badge&logo=c&logoColor=%243298)
-](https://github.com/qulop/TrioLang)
-[![RubyTestify](https://img.shields.io/badge/-RubyTestify-0D1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)
-](https://github.com/qulop/RubyTestify)
 
 
 ## Used technologies 🧰

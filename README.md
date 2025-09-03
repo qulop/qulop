@@ -22,5 +22,5 @@ I'm Yan - a junior ___C++ developer___!
 
 
 ## My socials(clickable) 🌍
-[<img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=#"/>](https://t.me/patmonkey)
+[<img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=#"/>](https://t.me/GiaAndACV)
 [<img src="https://img.shields.io/badge/Discrod-black?style=for-the-badge&logo=discord&logoColor=#"/>](https://discord.com/users/878649454226456596)
